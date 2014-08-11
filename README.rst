@@ -1,9 +1,9 @@
 =====================
-Slave Narratives: a Folk History of Slavery in the United StatesFlorida Narratives
+Slave Narratives: a Folk History of Slavery in the United States; Florida Narratives
 =====================
 
 
-This is a git repository of the source files for the book Slave Narratives: a Folk History of Slavery in the United StatesFlorida Narratives by United States. Work Projects Administration. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the book Slave Narratives: a Folk History of Slavery in the United States; Florida Narratives by United States. Work Projects Administration. This book is in the Public Domain, see the LICENSE file for details.
 
 Found an error?
 ===============
